@@ -1,5 +1,5 @@
 # Unveiling Student Sentiments: A Feedback Analysis Study
-This project is based on the sentiment analysis of students feedback, where the feedbacks are given by the students of a particular university. Various machine learning algorithms with TF-IDF technique are used, out of which one best model is chosed for predictive modelling.
+This project is based on the sentiment analysis of students feedback, where the feedbacks are given by the students of a particular university. Various machine learning algorithms with TF-IDF technique are used, out of which one best model is chosed for predictive modeling.
 
 # Sections
 - Overvview
